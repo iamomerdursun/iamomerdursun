@@ -1,16 +1,42 @@
-## Hi there 👋
 
-<!--
-**iamomerdursun/iamomerdursun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ömer Faruk Dursun 👋
 
-Here are some ideas to get you started:
+### Software QA Engineer | Manual Testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Software QA Engineer with hands-on experience in manual testing, mobile application testing, and automotive software testing.
+
+I focus on identifying software defects, improving product quality, and ensuring reliable user experiences through systematic testing.
+
+### 🧪 Testing Experience
+
+- Manual Testing
+- Mobile Application Testing
+- Functional Testing
+- Regression Testing
+- End-to-End Testing
+- Test Case Design
+- Bug Reporting
+- Network Testing (2G / 3G / 4G / 5G)
+- VoLTE & ViLTE Testing
+- Jira
+
+### 🛠️ Tools & Technologies
+
+- Jira
+- Git & GitHub
+- Postman (Learning)
+- Appium (Learning)
+
+### 📂 Projects
+
+I use this GitHub profile to document my testing projects, test scenarios, bug reports, and technical learning journey.
+
+### 🎯 Currently
+
+- Improving my Software Testing skills
+- Building practical QA portfolio projects
+- Learning test automation fundamentals
+
+### 📫 Connect with me
+
+- GitHub: https://github.com/iamomerdursun
